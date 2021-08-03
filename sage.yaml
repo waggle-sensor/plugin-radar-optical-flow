@@ -8,5 +8,5 @@ source:
     - "linux/arm/v7"
   url: "https://github.com/waggle-sensor/summer2021/blob/main/Razin/radar_data_processing.ipynb"
   branch: "Razin"
-  testing:
-    command: ["radar_data_processing.ipynb"]
+#   testing:
+#     command: ["radar_data_processing.ipynb"]
