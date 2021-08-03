@@ -4,12 +4,7 @@ https://github.com/waggle-sensor/pywaggle/archive/refs/tags/0.43.1.zip
 # Custom Python modules. Please add your requirements below.
 numpy
 opencv-python
-glob
+glob2
 matplotlib
-pyart
-imageio
-PIL
-cv2
-os
-argparse
+#pyart fails
 imageio
